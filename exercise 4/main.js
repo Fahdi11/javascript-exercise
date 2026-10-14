@@ -1,14 +1,14 @@
 
-// declartion
-function add (a,b){
-    return a+b
-}
+// // declartion
+// function add (a,b){
+//     return a+b
+// }
 
-let total =add(100,200)
+// let total =add(100,200)
 
-console.log(total + 300)
-console.log(total + 500)
-console.log(total + 50)
+// console.log(total + 300)
+// console.log(total + 500)
+// console.log(total + 50)
 
 
 
