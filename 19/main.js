@@ -7,9 +7,3 @@ nunber.forEach(nunber => {
 
 
 
-let khudaar = ['yaanyo' , 'baraadho' ,  'basal']
-
-
-khudaar.forEach(khudaar => {
-    console.log("cunoto waa " + khudaar)
-})
