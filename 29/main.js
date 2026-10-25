@@ -20,11 +20,17 @@
 // const jsonuserOne = JSON.parse(jsonuser)
 // console.log(jsonuserOne)
 
+
+
+
+//exercise
+
+
 async function fetchDate(){
 
-    const response = await fetch(`date.json`)
+    const response = await fetch(`date.json`)  // xogta kaso qaad fileka- json
 
-    const  date = await response.json()
+    const  date = await response.json() // xogta u badal json
     console.log(date)
 }
 
