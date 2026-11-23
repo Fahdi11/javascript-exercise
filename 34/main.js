@@ -15,6 +15,6 @@ function removeItem(){
     if(list.lastChild){
     list.removeChild(list.lastChild)}
     else{
-        alert('rong')
+        alert('rong`')
     }
 }
